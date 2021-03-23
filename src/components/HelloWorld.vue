@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          我们是是试试Core Docs
         </a>
       </li>
       <li>
